@@ -1,0 +1,3 @@
+Project 2 is to work on the first part of the 2part MNIST Project.
+Since this project will be shared in other units, and seems like a major project \
+in creating understanding and practical usage of learned concepts, I put it in the global file.
